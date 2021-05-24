@@ -10,11 +10,11 @@
 
 ![Theather Outcomes vs Launch](https://github.com/albertomontilla17/An-Analysis-of-Kickstarter-Campaigns/blob/main/Resources/Theather_Outcomes_vs_Launch.png)
 
-### This table is divided into 12 different ranges, with over a thousand Theather plays analyzed, with the purpose of comparing their goals and their rate of achievement. In the chart 
+### This table is divided into 12 different ranges, with over a thousand Theather plays analyzed, with the purpose of comparing their goals and their rate of achievement. In the chart, we can observe the comparison we did on the table
 
 ![Outcomes vs Goals](https://github.com/albertomontilla17/An-Analysis-of-Kickstarter-Campaigns/blob/main/Resources/Outcomes_vs_Goals.png)
 
-We can observe the comparison we did on the table
+
 
 ### It's extensive data to analyze. There are so many factors that can change the perspective and conclusion of this analysis. So, the challenge for me was to look at the right data to get the desired result.
 
